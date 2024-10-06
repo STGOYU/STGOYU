@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm yunus can</h1>
 <h3 align="center">A passionate Java developer from Germany</h3>
 
-- 🔭 I’m currently working on **Cookery Projekt**
-
 - 📝 I regularly write articles on [https://medium.com/@canyunus](https://medium.com/@canyunus)
 
 - 💬 Ask me about **Java, Javascript, Spring Framework, React**
